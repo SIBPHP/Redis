@@ -1,4 +1,4 @@
-# Config
+# Redis
 Redis manager based on php_redis extension
 Support master/slave mode through configuration
 
